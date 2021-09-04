@@ -1,5 +1,11 @@
 P
 
+Jika (saya) lapar maka
+saya makakn
+
+Jika saya tidak lapar maka
+saya minum
+
 Mau nulis deskripsi repo github?
 https://guides.github.com/features/mastering-markdown/
 

@@ -1,9 +1,11 @@
 P
 
 Jika saya lapar maka
-saya makakn
+
+saya makan
 
 Jika saya tidak lapar maka
+
 saya minum
 
 Mau nulis deskripsi repo github?

@@ -1,6 +1,6 @@
 P
 
-Jika (saya) lapar maka
+Jika saya lapar maka
 saya makakn
 
 Jika saya tidak lapar maka

@@ -8,6 +8,8 @@ Jika saya tidak lapar maka
 
 saya minum
 
+jika begini `cd randombash: cannot create temp file for here-document: No space left on device` maka ?
+
 Mau nulis deskripsi repo github?
 https://guides.github.com/features/mastering-markdown/
 

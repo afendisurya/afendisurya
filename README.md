@@ -13,16 +13,12 @@ jika begini `cd randombash: cannot create temp file for here-document: No space 
 Mau nulis deskripsi repo github?
 https://guides.github.com/features/mastering-markdown/
 
-NAMA = Afendi Surya 
-USERNAME = afendisurya
-STATUS = -WAJAH TERBALIK- NGODING
-DESKRIPSI = Ngeblog, Ngoding, Ngegame
-LOKASI = INDONESIA
-TWITTER = @afendisurya
 
 THX ALL
 
 OFF
+
+
 <!---
 afendisurya/afendisurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -38,4 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
